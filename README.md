@@ -41,20 +41,14 @@ Theme switcher (light/dark theme)
 Running the Project:
 Clone the repository:
 
-bash
-Kopyala
-Düzenle
+
 git clone https://github.com/<username>/5pringLog.git
 Install dependencies:
 
-bash
-Kopyala
-Düzenle
+
 npm install
 Start the development server:
 
-bash
-Kopyala
-Düzenle
+
 npm run dev
 Visit [https://5pringlog.vercel.app] in your browser to see the project in action.
